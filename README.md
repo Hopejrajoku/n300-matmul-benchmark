@@ -13,7 +13,7 @@ This repository documents the successful initialization and performance validati
 ### Hardware Verification
 Before benchmarking, the silicon health and connectivity were verified via the `tt-smi` utility.
 
->### 📸 Hardware & Validation Proof
+>### Hardware & Validation Proof
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fa3dc79c-987d-46b5-902f-719bf627bdab" width="32%" />
   <img src="https://github.com/user-attachments/assets/88215fa1-834e-4149-a7eb-a878742e7771" width="32%" />
